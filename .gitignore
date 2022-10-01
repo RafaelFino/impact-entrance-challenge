@@ -136,3 +136,5 @@ output/
 etc/apply*
 etc/my*
 etc/server*
+.idea
+keys/

@@ -17,11 +17,11 @@ git clone
 * Instalar o Python3
   * Windows
   * Linux
-* Criar o ambiente virtual
+* Criar e ativar o ambiente virtual
   * Windows
   * Linux
 * Executar o pip
   * Windows
-  * Linux 
+  * Linux
 * Preencher /etc/essay.txt
 * Enviar os seus dados

@@ -131,7 +131,7 @@ dmypy.json
 bin/
 include/
 lib/
-lib64/
+lib64
 output/
 etc/apply*
 etc/my*
